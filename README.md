@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### 3. Execute o script principal
 
 ```bash
-python processamento_fourier.py
+python fourier_process.py
 ```
 
 > O script irá:
