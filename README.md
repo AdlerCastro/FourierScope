@@ -20,7 +20,7 @@ Este projeto tem como objetivo aplicar conceitos de **Sinais e Sistemas**, utili
 /Projeto_Fourier/
 │
 ├── audio.wav                  # Áudio original em formato .wav (mono)
-├── processamento_fourier.py  # Script principal do projeto
+├── fourier_process.py  # Script principal do projeto
 ├── saida_passa_baixa.wav     # Resultado após filtro Passa-Baixa
 ├── saida_passa_alta.wav      # Resultado após filtro Passa-Alta
 ├── saida_passa_banda.wav     # Resultado após filtro Passa-Banda
@@ -129,6 +129,7 @@ Conforme solicitado pelo professor:
 ## 👨‍🔬 Autores
 
 Alunos: Adler Castro, Edgar Klewert, Luiz Neto
-Engenharia de Computação – EC5MA
-2º Bimestre
+<br/>
+Curso: Engenharia de Computação – EC5MA2º Bimestre
+<br/>
 Data de Entrega: 09/06/2025
